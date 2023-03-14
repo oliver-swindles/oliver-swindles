@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @oliver-swindles
-- 👀 I’m interested in Web Development (HTML, CSS and JavaScript), C++, C# and Python
-- 🌱 I’m currently learning HTML, CSS and C++
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning Rust
