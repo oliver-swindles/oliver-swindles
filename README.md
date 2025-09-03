@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Oliver Swindles</h1>
+<h1 align="center">Hello 👋, I'm Oliver</h1>
 
 ## About Me:
 I am a second-year BSc Computer Science student at Lancaster University, passionate about optimisation, complexity, and ___. I've also been doing quite a bit of web development recently using SvelteKit, which is fun :) \- you can find my website at [oliverswindles.com](https://oliverswindles.com).
