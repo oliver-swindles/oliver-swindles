@@ -5,6 +5,7 @@ I’m a second-year BSc Computer Science student at Lancaster University, intere
 
 #### Projects I'm currently working on:
 - Pretty quick parrallel csv parser and tools: [github.com/oliver-swindles/blaze-csv](https://www.github.com/oliver-swindles/blaze-csv/)
+- Group project manager app: [github.com/oliver-swindles/studytome](https://github.com/oliver-swindles/study-tome/)
 
 #### Sites I'm currently working on:
 - Lancaster University Hockey Club: [luhc.co.uk](https://www.luhc.co.uk)
