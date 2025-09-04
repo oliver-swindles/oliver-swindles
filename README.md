@@ -4,7 +4,7 @@
 I’m a second-year BSc Computer Science student at Lancaster University, interested in optimisation, computational complexity, and web development. Recently, I’ve been enjoying working with SvelteKit — check out my site at [oliverswindles.com](https://oliverswindles.com).
 
 #### Projects I'm currently working on:
-- Pretty quick parrallel csv parser and tools: [github.com/oliver-swindles/blaze-csv](https://www.github.com/oliver-swindles/blaze-csv/)
+- Pretty quick csv parser and tools: [github.com/oliver-swindles/blaze-csv](https://www.github.com/oliver-swindles/blaze-csv/)
 - Group project manager app: [github.com/oliver-swindles/studytome](https://github.com/oliver-swindles/studytome/)
 
 #### Sites I'm currently working on:
