@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver Swindles</h1>
 
 <p align="center">
-  I'm a 2nd-year BSc Computer Science student at Lancaster University with a passion for building high-performance, scalable systems. I'm currently seeking Summer 2026 software engineering internships.
+  I'm a 3rd-year BSc Computer Science student at Lancaster University with a passion for building high-performance, scalable systems.
 </p>
 
 <p align="center">
